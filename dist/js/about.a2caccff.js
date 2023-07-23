@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkandroidtest"]=self["webpackChunkandroidtest"]||[]).push([[443],{833:function(n,t,a){a.r(t),a.d(t,{default:function(){return f}});var e=a(3396);const r={class:"about"},s=(0,e._)("h1",null,"This is an about page",-1),u=[s];function i(n,t){return(0,e.wg)(),(0,e.iD)("div",r,u)}var c=a(89);const o={},d=(0,c.Z)(o,[["render",i]]);var f=d}}]);
+//# sourceMappingURL=about.a2caccff.js.map

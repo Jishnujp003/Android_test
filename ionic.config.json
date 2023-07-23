@@ -1,0 +1,7 @@
+{
+  "name": "androidtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
